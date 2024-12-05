@@ -1,5 +1,5 @@
 
-# Streit-C's Website
+# Accelerated Materials Discovery Lab Website
 
 Visit **[acceleratedmaterialsdiscovery.com](http://acceleratedmaterialsdiscovery.com)** 🚀
 
