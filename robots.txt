@@ -1,1 +1,1 @@
-Sitemap: https://streit-c.github.io/amd-lab-website/sitemap.xml
+Sitemap: http://acceleratedmaterialsdiscovery.com/sitemap.xml
