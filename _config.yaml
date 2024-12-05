@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: AMD Lab
-subtitle: @ UVA Department of Materials Science and Engineering
+subtitle: UVA Department of Materials Science and Engineering
 description: The Accelerated Materials Discovery Lab is focused on applying automated and high-throughput methodologies to discover and develop novel materials for extreme environments (high mechanical stresses, temperatures, and radiation fluxes). We are located in the Department of Materials Science and Engineering at University of Virginia.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Streit-C.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: fqw3ss@virginia.edu
+  orcid: 0000-0003-3166-3563
+  google-scholar: tOTa1XkAAAAJ
   github: Streit-C
-  twitter: Streit-C
-  youtube: Streit-C
+  #twitter: Streit-C
+  #youtube: Streit-C
 
 ### jekyll settings
 
