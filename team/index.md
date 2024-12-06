@@ -13,7 +13,3 @@ We're an exciting new group and we're looking for new members! If you're interes
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-# {% include grid.html style="square" content=content %}
