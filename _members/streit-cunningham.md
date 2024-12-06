@@ -1,7 +1,7 @@
 ---
 name: W. Streit Cunningham
 image: images/streit-cunningham.jpg
-role: Principal Investigator
+role: pi
 affiliation: University of Virginia
 links:
   home-page: https://acceleratedmaterialsdiscovery.com
