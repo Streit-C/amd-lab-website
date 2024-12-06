@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We're an exciting new group and we're looking for new members! If you're interested in joining, please email Dr. Cunningham.
+We're a new group and we're looking for members! If you're interested in joining, please email Dr. Cunningham.
 
 {% include section.html %}
 
