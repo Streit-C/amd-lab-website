@@ -1,174 +1,253 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.msea.2024.147110
+  title: Alloying effects on the microstructure and properties of laser additively
+    manufactured tungsten materials
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - W. Streit Cunningham
+  - Eric Lang
+  - David Sprouster
+  - Nicholas Olynik
+  - Ajith Pattammattel
+  - Daniel Olds
+  - Khalid Hattar
+  - Ian McCue
+  - Jason R. Trelewicz
+  publisher: 'Materials Science and Engineering: A'
+  date: '2024-11-01'
+  link: https://doi.org/g8twgv
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.mtla.2023.101940
+  title: High-throughput assessment of the microstructural stability of segregation-engineered
+    nanocrystalline Al-Ni-Y alloys
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - W. Streit Cunningham
+  - Jungho Shin
+  - Tianjiao Lei
+  - Timothy J Rupert
+  - Daniel S. Gianola
+  publisher: Materialia
+  date: '2023-12-01'
+  link: https://doi.org/g8twgw
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.jnucmat.2023.154683
+  title: Sintered nanostructured alloys for advanced fusion energy applications
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - D.J. Sprouster
+  - J. Gentile
+  - M. Ouyang
+  - C. Killeen
+  - J.R. Trelewicz
+  - W. Zhong
+  - Y. Yang
+  - D. Bhardwaj
+  - W.S. Cunningham
+  - M.M.A. Shawon
+  - B. Cheng
+  - D. Olds
+  - H. Yan
+  - A. Pattammattel
+  - L. Tan
+  - L.L. Snead
+  publisher: Journal of Nuclear Materials
+  date: '2023-12-01'
+  link: https://doi.org/g8twgx
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1016/j.actamat.2023.118948
+  title: Grain boundary softening from stress assisted helium cavity coalescence in
+    ultrafine-grained tungsten
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "W\uFF0EStreit Cunningham"
+  - Yang Zhang
+  - Spencer L. Thomas
+  - Osman El-Atwani
+  - Yongqiang Wang
+  - Jason R. Trelewicz
+  publisher: Acta Materialia
+  date: '2023-06-01'
+  link: https://doi.org/gsdkr8
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1002/adma.202200354
+  title: Unraveling Thermodynamic and Kinetic Contributions to the Stability of Doped
+    Nanocrystalline Alloys using Nanometallic Multilayers
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - W. Streit Cunningham
+  - Sean T. J. Mascarenhas
+  - J. Sebastian Riano
+  - Wenbo Wang
+  - Sooyeon Hwang
+  - Khalid Hattar
+  - Andrea M. Hodge
+  - Jason R. Trelewicz
+  publisher: Advanced Materials
+  date: '2022-05-23'
+  link: https://doi.org/g8twgz
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/j.actamat.2021.116629
+  title: Suppressing irradiation induced grain growth and defect accumulation in nanocrystalline
+    tungsten through grain boundary doping
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - W. Streit Cunningham
+  - Khalid Hattar
+  - Yuanyuan Zhu
+  - Danny J. Edwards
+  - Jason R. Trelewicz
+  publisher: Acta Materialia
+  date: '2021-03-01'
+  link: https://doi.org/g8twg2
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.addma.2021.102263
+  title: Dislocation microstructure and its influence on corrosion behavior in laser
+    additively manufactured 316L stainless steel
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - David J. Sprouster
+  - W. Streit Cunningham
+  - Gary P. Halada
+  - Hanfei Yan
+  - Ajith Pattammattel
+  - Xiaojing Huang
+  - Daniel Olds
+  - Maryam Tilton
+  - Yong S. Chu
+  - Eric Dooryhee
+  - Guha P. Manogharan
+  - Jason R. Trelewicz
+  publisher: Additive Manufacturing
+  date: '2021-11-01'
+  link: https://doi.org/gmsqrh
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scriptamat.2020.01.013
+  title: Temperature threshold for preferential bubble formation on grain boundaries
+    in tungsten under in-situ helium irradiation
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - D. Perez
+  - E. Martinez
+  - J.R. Trelewicz
+  - M. Li
+  - S.A. Maloy
+  publisher: Scripta Materialia
+  date: '2020-04-01'
+  link: https://doi.org/g8twg3
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ma13030794
+  title: In-Situ Helium Implantation and TEM Investigation of Radiation Tolerance
+    to Helium Bubble Damage in Equiaxed Nanocrystalline Tungsten and Ultrafine Tungsten-TiC
+    Alloy
+  authors:
+  - Osman El Atwani
+  - Kaan Unal
+  - William Streit Cunningham
+  - Saryu Fensin
+  - Jonathan Hinks
+  - Graeme Greaves
+  - Stuart Maloy
+  publisher: Materials
+  date: '2020-02-10'
+  link: https://doi.org/gs5vt2
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jnucmat.2020.152150
+  title: Revealing the synergistic effects of sequential and simultaneous dual beam
+    irradiations in tungsten via in-situ TEM
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - J.R. Trelewicz
+  - M. Li
+  - B.D. Wirth
+  - S.A. Maloy
+  publisher: Journal of Nuclear Materials
+  date: '2020-09-01'
+  link: https://doi.org/gmxsxf
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.actamat.2018.10.038
+  title: In-situ irradiation tolerance investigation of high strength ultrafine tungsten-titanium
+    carbide alloy
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - E. Esquivel
+  - M. Li
+  - J.R. Trelewicz
+  - B.P. Uberuaga
+  - S.A. Maloy
+  publisher: Acta Materialia
+  date: '2019-02-01'
+  link: https://doi.org/g8twg4
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aan6286
+  title: "Evidence for a quantum dipole liquid state in an organic quasi\u2013two-dimensional\
+    \ material"
+  authors:
+  - Nora Hassan
+  - Streit Cunningham
+  - Martin Mourigal
+  - Elena I. Zhilyaeva
+  - Svetlana A. Torunova
+  - Rimma N. Lyubovskaya
+  - John A. Schlueter
+  - Natalia Drichko
+  publisher: Science
+  date: '2018-06-08'
+  link: https://doi.org/gdmwj6
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cryst8060233
+  title: Raman Scattering as a Probe of the Magnetic State of BEDT-TTF Based Mott
+    Insulators
+  authors:
+  - Nora Hassan
+  - Streit Cunningham
+  - Elena I. Zhilyaeva
+  - Svetlana A. Torunova
+  - Rimma N. Lyubovskaya
+  - John A. Schlueter
+  - Natalia Drichko
+  publisher: Crystals
+  date: '2018-05-23'
+  link: https://doi.org/gdvhdh
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-20990-1
+  title: Softening due to Grain Boundary Cavity Formation and its Competition with
+    Hardening in Helium Implanted Nanocrystalline Tungsten
+  authors:
+  - W. Streit Cunningham
+  - Jonathan M. Gentile
+  - Osman El-Atwani
+  - Chase N. Taylor
+  - Mert Efe
+  - Stuart A. Maloy
+  - Jason R. Trelewicz
+  publisher: Scientific Reports
+  date: '2018-02-13'
+  link: https://doi.org/gc33w5
+  orcid: 0000-0003-3166-3563
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +263,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +279,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
