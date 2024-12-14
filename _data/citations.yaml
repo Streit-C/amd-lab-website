@@ -20,6 +20,23 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324X00234-cov200h.gif
+- id: doi:10.3389/fnuen.2024.1352667
+  title: Fabrication of neutron absorbing metal hydride entrained ceramic matrix shield
+    composites
+  authors:
+  - Devanshi Bhardwaj
+  - Bin Cheng
+  - David J. Sprouster
+  - William S. Cunningham
+  - Nirmala Rani
+  - Jason R. Trelewicz
+  - Lance L. Snead
+  publisher: Frontiers in Nuclear Engineering
+  date: '2024-02-16'
+  link: https://doi.org/g8vm4c
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.mtla.2023.101940
   title: High-throughput assessment of the microstructural stability of segregation-engineered
     nanocrystalline Al-Ni-Y alloys
