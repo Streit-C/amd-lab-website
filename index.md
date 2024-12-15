@@ -1,9 +1,9 @@
 ---
 ---
 
-# Streit-C's Website
+# Accelerated Materials Discovery Lab
 
-An engaging 1-3 sentence description of your lab.
+We utilize high-throughput and autonomous methodologies to develop novel materials, with a particular focus towards structural materials in extreme environments. 
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the application of microstructural design principles to create new alloys for extreme environments with high temperatures, mechanical stresses, and radiation fluxes. We are a technique heavy group, applying high-throughput and autonomous experimental approaches to optimize materials.
 
 {%
   include button.html
