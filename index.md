@@ -7,7 +7,7 @@ We utilize high-throughput and autonomous methodologies to develop novel materia
 
 {% include section.html %}
 
-## Highlights
+<!-- ## Highlights -->
 
 {% capture text %}
 
@@ -32,6 +32,7 @@ Our research focuses on the application of microstructural design principles to 
   text=text
 %}
 
+<!--
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -79,3 +80,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+-->
