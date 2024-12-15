@@ -26,7 +26,7 @@ Our research focuses on the application of microstructural design principles to 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/OMAI Research Outline.jpg"
   link="research"
   title="Our Research"
   text=text
