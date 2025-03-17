@@ -1,6 +1,3 @@
-- id: doi:10.1016/j.actamat.2025.120887
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
-
 - id: doi:10.3390/cryst8060233
   image: https://mdpi-res.com/bookfiles/book/768/Advances_in_Organic_Conductors_and_Superconductors.jpg?v=1733709660
 
@@ -14,28 +11,31 @@
   image: https://mdpi-res.com/bookfiles/book/2639/Radiation_Damage_in_Materials.jpg?v=1733709732
 
 - id: doi:10.1016/j.scriptamat.2020.01.013
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220X00030-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220300282-fx1_lrg.jpg
 
 - id: doi:10.1016/j.jnucmat.2020.152150
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
 
 - id: doi:10.1016/j.actamat.2021.116629
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645421000094-fx1_lrg.jpg
 
 - id: doi:10.1016/j.addma.2021.102263
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421X00103-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421004231-ga1_lrg.jpg
 
 - id: doi:10.1002/adma.202200354
   image: https://onlinelibrary.wiley.com/cms/asset/0ca86e75-4492-4d43-9593-af8c178f6208/adma202270206-gra-0001-m.jpg
 
 - id: doi:10.1016/j.actamat.2023.118948
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645423002793-ga1_lrg.jpg
 
 - id: doi:10.1016/j.mtla.2023.101940
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923X00064-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923002673-ga1_lrg.jpg
 
 - id: doi:10.1016/j.jnucmat.2023.154683
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
 
 - id: doi:10.1016/j.msea.2024.147110
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324X00234-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324010414-ga1_lrg.jpg
+
+- id: doi:10.1016/j.actamat.2025.120887
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S135964542500179X-ga1_lrg.jpg
