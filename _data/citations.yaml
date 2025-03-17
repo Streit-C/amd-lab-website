@@ -15,8 +15,9 @@
   date: '2025-03-01'
   link: https://doi.org/g88krb
   orcid: 0000-0003-3166-3563
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S135964542500179X-ga1_lrg.jpg
 - id: doi:10.1016/j.msea.2024.147110
   title: Alloying effects on the microstructure and properties of laser additively
     manufactured tungsten materials
@@ -36,7 +37,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324X00234-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324010414-ga1_lrg.jpg
 - id: doi:10.3389/fnuen.2024.1352667
   title: Fabrication of neutron absorbing metal hydride entrained ceramic matrix shield
     composites
@@ -69,7 +70,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923X00064-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923002673-ga1_lrg.jpg
 - id: doi:10.1016/j.jnucmat.2023.154683
   title: Sintered nanostructured alloys for advanced fusion energy applications
   authors:
@@ -112,7 +113,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645423002793-ga1_lrg.jpg
 - id: doi:10.1002/adma.202200354
   title: Unraveling Thermodynamic and Kinetic Contributions to the Stability of Doped
     Nanocrystalline Alloys using Nanometallic Multilayers
@@ -147,7 +148,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645421000094-fx1_lrg.jpg
 - id: doi:10.1016/j.addma.2021.102263
   title: Dislocation microstructure and its influence on corrosion behavior in laser
     additively manufactured 316L stainless steel
@@ -170,7 +171,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421X00103-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421004231-ga1_lrg.jpg
 - id: doi:10.1016/j.scriptamat.2020.01.013
   title: Temperature threshold for preferential bubble formation on grain boundaries
     in tungsten under in-situ helium irradiation
@@ -188,7 +189,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220X00030-cov200h.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220300282-fx1_lrg.jpg
 - id: doi:10.3390/ma13030794
   title: In-Situ Helium Implantation and TEM Investigation of Radiation Tolerance
     to Helium Bubble Damage in Equiaxed Nanocrystalline Tungsten and Ultrafine Tungsten-TiC
