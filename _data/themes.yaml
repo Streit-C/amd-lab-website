@@ -6,7 +6,7 @@
   description: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   repo: greenelab/lab-website-template
   tags:
-    - research
+    - materials for extremes
 
 - title: Engineering Novel Alloys
   ####subtitle: a subtitle
@@ -16,7 +16,7 @@
   description: Optimizing microstructures through defect engineering.
   repo: greenelab/lab-website-template
   tags:
-    - research
+    - defect engineering
 
 - title: Autonomous Materials Development
   ####subtitle: a subtitle
@@ -26,4 +26,4 @@
   description: Using high-throughput and/or autonomous techniques to accelerate materials discovery.
   repo: greenelab/lab-website-template
   tags:
-    - research
+    - high throughput
