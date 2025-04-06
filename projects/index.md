@@ -5,7 +5,7 @@ nav:
   tooltip: Our equipment, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Equipment
 
 As we construct our lab, the list of our available equipment will be found here.
 
@@ -17,10 +17,10 @@ As we construct our lab, the list of our available equipment will be found here.
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="equipment" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="equipment" filter="!group" style="small" %}

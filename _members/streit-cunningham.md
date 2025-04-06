@@ -6,7 +6,7 @@ affiliation: University of Virginia
 links:
   home-page: https://acceleratedmaterialsdiscovery.com
   orcid: 0000-0003-3166-3563
-  email: fqw3ss@virginia.edu
+  email: streit.cunningham@virginia.edu
   google-scholar: tOTa1XkAAAAJ&hl
 ---
 
