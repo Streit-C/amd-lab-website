@@ -11,6 +11,14 @@ The Accelerated Materials Discovery Lab is focused on applying automated and hig
 
 {% include section.html %}
 
+## Featured
+
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## Our Publications
+
 {%
   include button.html
   icon="fa-brands fa-google"
