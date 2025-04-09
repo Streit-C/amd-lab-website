@@ -19,7 +19,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S135964542500179X-ga1_lrg.jpg
   tags:
-  - defect engineering
+  - defect-engineering
 - id: doi:10.1016/j.msea.2024.147110
   title: Alloying effects on the microstructure and properties of laser additively
     manufactured tungsten materials
@@ -41,7 +41,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324010414-ga1_lrg.jpg
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.3389/fnuen.2024.1352667
   title: Fabrication of neutron absorbing metal hydride entrained ceramic matrix shield
     composites
@@ -61,7 +61,7 @@
   file: sources.yaml
   image: https://www.frontiersin.org/files/Articles/1352667/fnuen-03-1352667-HTML/image_m/fnuen-03-1352667-g004.jpg
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.1016/j.mtla.2023.101940
   title: High-throughput assessment of the microstructural stability of segregation-engineered
     nanocrystalline Al-Ni-Y alloys
@@ -79,7 +79,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923002673-ga1_lrg.jpg
   tags:
-  - high throughput
+  - high-throughput
 - id: doi:10.1016/j.jnucmat.2023.154683
   title: Sintered nanostructured alloys for advanced fusion energy applications
   authors:
@@ -107,7 +107,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.1016/j.actamat.2023.118948
   title: Grain boundary softening from stress assisted helium cavity coalescence in
     ultrafine-grained tungsten
@@ -126,8 +126,8 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645423002793-ga1_lrg.jpg
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
 - id: doi:10.1002/adma.202200354
   title: Unraveling Thermodynamic and Kinetic Contributions to the Stability of Doped
     Nanocrystalline Alloys using Nanometallic Multilayers
@@ -148,8 +148,8 @@
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/0ca86e75-4492-4d43-9593-af8c178f6208/adma202270206-gra-0001-m.jpg
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
 - id: doi:10.1016/j.actamat.2021.116629
   title: Suppressing irradiation induced grain growth and defect accumulation in nanocrystalline
     tungsten through grain boundary doping
@@ -167,8 +167,8 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645421000094-fx1_lrg.jpg
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
 - id: doi:10.1016/j.addma.2021.102263
   title: Dislocation microstructure and its influence on corrosion behavior in laser
     additively manufactured 316L stainless steel
@@ -193,8 +193,8 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421004231-ga1_lrg.jpg
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
 - id: doi:10.1016/j.scriptamat.2020.01.013
   title: Temperature threshold for preferential bubble formation on grain boundaries
     in tungsten under in-situ helium irradiation
@@ -214,8 +214,8 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220300282-fx1_lrg.jpg
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
 - id: doi:10.3390/ma13030794
   title: In-Situ Helium Implantation and TEM Investigation of Radiation Tolerance
     to Helium Bubble Damage in Equiaxed Nanocrystalline Tungsten and Ultrafine Tungsten-TiC
@@ -236,7 +236,7 @@
   file: sources.yaml
   image: https://mdpi-res.com/bookfiles/book/2639/Radiation_Damage_in_Materials.jpg?v=1733709732
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.1016/j.jnucmat.2020.152150
   title: Revealing the synergistic effects of sequential and simultaneous dual beam
     irradiations in tungsten via in-situ TEM
@@ -255,7 +255,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.1016/j.actamat.2018.10.038
   title: In-situ irradiation tolerance investigation of high strength ultrafine tungsten-titanium
     carbide alloy
@@ -275,7 +275,7 @@
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
   tags:
-  - materials for extremes
+  - materials-for-extremes
 - id: doi:10.1126/science.aan6286
   title: "Evidence for a quantum dipole liquid state in an organic quasi\u2013two-dimensional\
     \ material"
@@ -332,5 +332,5 @@
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-20990-1/MediaObjects/41598_2018_20990_Fig6_HTML.jpg?as=webp
   tags:
-  - materials for extremes
-  - defect engineering
+  - materials-for-extremes
+  - defect-engineering
