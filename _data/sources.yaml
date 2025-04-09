@@ -1,8 +1,8 @@
 - id: doi:10.1038/s41598-018-20990-1
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-20990-1/MediaObjects/41598_2018_20990_Fig6_HTML.jpg?as=webp
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.3390/cryst8060233
   image: https://mdpi-res.com/bookfiles/book/768/Advances_in_Organic_Conductors_and_Superconductors.jpg?v=1733709660
@@ -13,69 +13,69 @@
 - id: doi:10.1016/j.actamat.2018.10.038
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.3390/ma13030794
   image: https://mdpi-res.com/bookfiles/book/2639/Radiation_Damage_in_Materials.jpg?v=1733709732
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.1016/j.scriptamat.2020.01.013
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220300282-fx1_lrg.jpg
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.1016/j.jnucmat.2020.152150
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.1016/j.actamat.2021.116629
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645421000094-fx1_lrg.jpg
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.1016/j.addma.2021.102263
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421004231-ga1_lrg.jpg
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.1002/adma.202200354
   image: https://onlinelibrary.wiley.com/cms/asset/0ca86e75-4492-4d43-9593-af8c178f6208/adma202270206-gra-0001-m.jpg
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.1016/j.actamat.2023.118948
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645423002793-ga1_lrg.jpg
   tags:
-    - materials for extremes
-    - defect engineering
+    - materials-for-extremes
+    - defect-engineering
 
 - id: doi:10.1016/j.mtla.2023.101940
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923002673-ga1_lrg.jpg
   tags:
-    - high throughput
+    - high-throughput
 
 - id: doi:10.1016/j.jnucmat.2023.154683
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.3389/fnuen.2024.1352667
   image: https://www.frontiersin.org/files/Articles/1352667/fnuen-03-1352667-HTML/image_m/fnuen-03-1352667-g004.jpg
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.1016/j.msea.2024.147110
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324010414-ga1_lrg.jpg
   tags:
-    - materials for extremes
+    - materials-for-extremes
 
 - id: doi:10.1016/j.actamat.2025.120887
   image: https://ars.els-cdn.com/content/image/1-s2.0-S135964542500179X-ga1_lrg.jpg
   tags:
-    - defect engineering
+    - defect-engineering
