@@ -1,7 +1,7 @@
 - title: Materials for Extreme Environments
   ####subtitle: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   group: research
-  image: images/photo.jpg
+  image: images/extreme_env.jpg
   link: https://github.com/
   description: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   ##repo: greenelab/lab-website-template
@@ -11,7 +11,7 @@
 - title: Engineering Novel Alloys
   ####subtitle: a subtitle
   group: research
-  image: images/photo.jpg
+  image: images/alloys.jpg
   link: https://github.com/
   description: Optimizing microstructures through defect engineering.
   ##repo: greenelab/lab-website-template
@@ -21,7 +21,7 @@
 - title: Autonomous Materials Development
   ####subtitle: a subtitle
   group: research
-  image: images/photo.jpg
+  image: images/high_throughput.jpg
   link: https://github.com/
   description: Using high-throughput and/or autonomous techniques to accelerate materials discovery.
   ##repo: greenelab/lab-website-template
