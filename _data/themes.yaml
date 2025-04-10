@@ -4,7 +4,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
-  repo: greenelab/lab-website-template
+  ##repo: greenelab/lab-website-template
   tags:
     - materials for extremes
 
@@ -14,7 +14,7 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Optimizing microstructures through defect engineering.
-  repo: greenelab/lab-website-template
+  ##repo: greenelab/lab-website-template
   tags:
     - defect engineering
 
@@ -24,6 +24,6 @@
   image: images/photo.jpg
   link: https://github.com/
   description: Using high-throughput and/or autonomous techniques to accelerate materials discovery.
-  repo: greenelab/lab-website-template
+  ##repo: greenelab/lab-website-template
   tags:
     - high throughput
