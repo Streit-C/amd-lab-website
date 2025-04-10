@@ -5,6 +5,8 @@ description: The Accelerated Materials Discovery Lab is focused on applying auto
 header: images/background.jpg
 footer: images/footer_cropped.jpg
 proofer: false
+logo: images/AMD Logo Full.png
+##show-title: false
 
 # site social media and other links
 links:
