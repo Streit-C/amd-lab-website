@@ -2,9 +2,9 @@
   ####subtitle: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   group: research
   image: images/projects/extreme_env.jpg
-  link: https://acceleratedmaterialsdiscovery.com/projects/extremes.md
+  link: https://acceleratedmaterialsdiscovery.com/research/themes/extremes.md
   description: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
-  ##repo: greenelab/lab-website-template
+  repo: Streit-C
   tags:
     - materials for extremes
 
