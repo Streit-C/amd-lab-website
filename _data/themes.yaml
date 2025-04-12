@@ -2,7 +2,7 @@
   ####subtitle: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   group: research
   image: images/projects/extreme_env.jpg
-  link: https://acceleratedmaterialsdiscovery.com/research/extremes.md
+  link: https://acceleratedmaterialsdiscovery.com/research/extremes
   description: Designing alloys that withstand the limits of temperature, mechanical stresses, and radiation.
   repo: Streit-C
   tags:
@@ -12,7 +12,7 @@
   ####subtitle: a subtitle
   group: research
   image: images/projects/alloys.jpg
-  link: https://acceleratedmaterialsdiscovery.com/research/defects.md
+  link: https://acceleratedmaterialsdiscovery.com/research/defects
   description: Optimizing microstructures through defect engineering.
   repo: Streit-C
   tags:
@@ -22,7 +22,7 @@
   ####subtitle: a subtitle
   group: research
   image: images/projects/high_throughput.jpg
-  link: https://acceleratedmaterialsdiscovery.com/research/throughput.md
+  link: https://acceleratedmaterialsdiscovery.com/research/throughput
   description: Using high-throughput and/or autonomous techniques to accelerate materials discovery.
   repo: Streit-C
   tags:
