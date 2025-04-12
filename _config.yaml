@@ -40,7 +40,7 @@ defaults:
   - scope:
       type: "research"
     values:
-      layout: default
+      layout: research
 
 collections:
   # generate page for each member
