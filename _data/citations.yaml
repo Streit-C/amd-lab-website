@@ -20,8 +20,8 @@
   file: sources.yaml
   image: https://pubs.acs.org/cms/10.1021/acsami.5c07163/asset/images/medium/am5c07163_0006.gif
 - id: doi:10.1016/j.actamat.2025.120887
-  title: Chemically ordered dislocation defect phases as a new strengthening pathway
-    in Ni-Al alloys
+  title: "Chemically ordered dislocation defect phases as a new strengthening pathway\
+    \ in Ni\u2013Al alloys"
   authors:
   - H.C. Howard
   - W.S. Cunningham
@@ -31,7 +31,7 @@
   - T.J. Rupert
   - D.S. Gianola
   publisher: Acta Materialia
-  date: '2025-03-01'
+  date: '2025-05-01'
   link: https://doi.org/g88krb
   orcid: 0000-0003-3166-3563
   plugin: sources.py
