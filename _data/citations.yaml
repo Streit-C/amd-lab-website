@@ -18,7 +18,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/acsami.5c07163/asset/images/medium/am5c07163_0006.gif
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/am5c07163_0006.png
 - id: doi:10.1016/j.actamat.2025.120887
   title: "Chemically ordered dislocation defect phases as a new strengthening pathway\
     \ in Ni\u2013Al alloys"
