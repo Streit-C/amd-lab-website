@@ -349,7 +349,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-20990-1/MediaObjects/41598_2018_20990_Fig6_HTML.jpg?as=webp
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/41598_2018_20990_Fig1_HTML.png
   tags:
   - materials-for-extremes
   - defect-engineering
