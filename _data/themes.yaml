@@ -9,7 +9,7 @@
     - materials for extremes
 
 - title: Engineering Novel Alloys
-  ####subtitle: a subtitle
+  ####subtitle: Modifying microstructures to enhance material properties.
   group: research
   image: images/projects/alloys.jpg
   link: https://acceleratedmaterialsdiscovery.com/research/defects
@@ -19,7 +19,7 @@
     - defect engineering
 
 - title: Autonomous Materials Development
-  ####subtitle: a subtitle
+  ####subtitle: Accelerating materials development through automated synthesis and characterization.
   group: research
   image: images/projects/high_throughput.jpg
   link: https://acceleratedmaterialsdiscovery.com/research/throughput
@@ -27,14 +27,3 @@
   repo: Streit-C
   tags:
     - high throughput
-
-- title: Quantum Augmented Networks (QuaNET)
-  subtitle: DARPA
-  group: featured
-  image: images/quanet.png
-  link: https://phoqus.us/projects/quanet
-  description: Using squeezing and entangled photons in the physical layer for enhancing security, privacy and resilience of an optical communications network. 
-  repo: Guha-Group
-  tags:
-    - communications
-    - sensing
