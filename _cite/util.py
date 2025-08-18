@@ -205,6 +205,8 @@ def cite_with_manubot(_id):
         if given or family:
             if "William" in given or "William S." in given or "William Streit" in given or "W.S." in given or "W\uFF0EStreit" in given:
                 given = "W. Streit"
+            if "William" in family or "William S." in family or "William Streit" in family or "W.S." in family or "W\uFF0EStreit" in family:
+                family = "W. Streit Cunningham"
             citation["authors"].append(" ".join([given, family]))
 
     # publisher
