@@ -82,3 +82,9 @@
 
 - id: doi:10.1021/acsami.5c07163
   image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/am5c07163_0006.png
+
+- id: doi:10.1016/j.jnucmat.2025.156106
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311525005008-ga1_lrg.jpg
+  tags:
+    - materials-for-extremes
+    - defect-engineering
