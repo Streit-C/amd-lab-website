@@ -203,7 +203,7 @@ def cite_with_manubot(_id):
         given = get_safe(author, "given", "").strip()
         family = get_safe(author, "family", "").strip()
         if given or family:
-            if given == "William" or given == "William S." or given == "William Streit" or given == "W.S." or given == "Streit" or given == "W\uFF0EStreit":
+            if "William" in given or "William S." in given or "William Streit" in given or "W.S." in given or "W\uFF0EStreit" in given:
                 given = "W. Streit"
             citation["authors"].append(" ".join([given, family]))
 
