@@ -14,7 +14,15 @@ W. Streit Cunningham is an Assistant Professor in the Department of Materials Sc
 
 The Accelerated Materials Discovery lab focuses on building and applying high-throughput methodologies for the creation and optimization of novel materials. To that end, Dr. Cunningham has had a long-standing interest in the development of automated and in-situ techniques across a broad spectrum of materials characterization approaches. The Accelerated Materials Discovery lab primarily leverages their expertise in materials discovery to explore the optimization of structural materials for extreme environments, such as those found inside next-generation nuclear reactors.
 
-{% include section.html %}
-## Publications
+{% include section.html%}
+##  Education
+- Postdoctoral Training, Materials Science and Engineering, University of California, Santa Barbara, CA, 2025
+- PhD, Materials Science and Engineering, Stony Brook University, NY, 2021
+- BS, Major: Physics; Minor: Mathematics, Johns Hopkins University, MD, 2016
 
-{% include list.html data="citations" component="citation" filters="andrew-su-list: true" style="rich" %}
+
+## Honors and Awards
+- 2023 - NSF MPS-Ascend Postdoctoral Fellowship
+-	2023 - Alan J. Heeger Fellowship
+-	2021 - Acta Materialia Student Award
+-	2018 - Graduate Assistance in Areas of National Need Fellowship
