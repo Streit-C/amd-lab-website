@@ -1,6 +1,6 @@
 ---
 name: W. Streit Cunningham
-image: images/streit-cunningham.jpg
+image: images/members/streit-cunningham.jpg
 role: pi
 affiliation: University of Virginia
 links:
