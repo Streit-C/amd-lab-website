@@ -7,9 +7,9 @@ links:
   email: sar2bc@virginia.edu
 ---
 
-T. Jack Hallett is a PhD student in the Department of Materials Science and Engineering at University of Virginia. Mr. Hallett earned his Bachalars of Science in Materials science and engineering at the University of Illinois at Urbana-Champaighn in 2025. 
+T. Jack Hallett is a PhD student in the Department of Materials Science and Engineering at University of Virginia. Mr. Hallett earned his Bachelors of Science in Materials Science and Engineering at the University of Illinois at Urbana Champaign in 2025. 
 
-Jack Hallett has an intrist in high throughput methods of material sythasis and testing for assertaining possible properties of materials. His current intrist in properties is related to phases caused by defects. 
+Jack Hallett has an interest in high-throughput methods of material sythesis and testing for assertaining possible properties of materials. His current interest in properties is related to phases caused by defects. 
 
 {% include section.html %}
 ## Publications
