@@ -1,6 +1,6 @@
 ---
 name: T. Jack Hallett
-image: images/members/Jack-Hallett.jpg
+image: images/members/jack-hallett.jpg
 role: phd
 affiliation: University of Virginia
 links:
