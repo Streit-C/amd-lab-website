@@ -30,6 +30,18 @@ sources = []
 # in-order list of plugins to run
 plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 
+# Canonical author name(s) mapping
+CANONICAL_NAMES = {
+    "W. Streit Cunningham": {
+        "William Streit Cunningham",
+        "William Cunningham",
+        "William S. Cunningham",
+        "W.S. Cunningham",
+        "W Streit Cunningham",
+        "W\uFF0EStreit Cunningham"
+    }
+}
+
 # loop through plugins
 for plugin in plugins:
     # convert into path object
@@ -156,6 +168,10 @@ for index, source in enumerate(sources):
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
+
+    # normalize author names if present
+    if "author" in citation:
+        citation["author"] = normalize_authors(citation["author"])
 
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):

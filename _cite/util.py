@@ -166,6 +166,25 @@ def save_data(path, data):
     except Exception:
         raise Exception("Can't write to file")
 
+def normalize_author(name: str) -> str:
+    """
+    Normalize an author's name to a canonical version if it matches variants.
+    """
+    if not name:
+        return name
+    clean = name.strip()
+    for canonical, variants in CANONICAL_NAMES.items():
+        if clean == canonical or clean in variants:
+            return canonical
+    return clean
+
+def normalize_authors(author_list):
+    """
+    Normalize all author names in a list.
+    """
+    if not isinstance(author_list, list):
+        return author_list
+    return [normalize_author(a) for a in author_list]
 
 @log_cache
 @cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
@@ -203,10 +222,6 @@ def cite_with_manubot(_id):
         given = get_safe(author, "given", "").strip()
         family = get_safe(author, "family", "").strip()
         if given or family:
-            if "William" in given or "William S." in given or "William Streit" in given or "W.S." in given or "W\uFF0EStreit" in given:
-                given = "W. Streit"
-            if "William" in family or "William S." in family or "William Streit" in family or "W.S." in family or "W\uFF0EStreit" in family:
-                family = "W. Streit Cunningham"
             citation["authors"].append(" ".join([given, family]))
 
     # publisher
