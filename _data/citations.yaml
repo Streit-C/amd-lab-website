@@ -21,6 +21,21 @@
   tags:
   - materials-for-extremes
   - defect-engineering
+- id: doi:10.1093/mam/ozaf048.1103
+  title: An Asynchronous Object Detection Framework for TEM Data Analytics
+  authors:
+  - Arda Genc
+  - W Streit Cunningham
+  - Daniel Belzberg
+  - Ravit Silverstein
+  - Libor Kovarik
+  - Daniel Gianola
+  publisher: Microscopy and Microanalysis
+  date: '2025-07-01'
+  link: https://doi.org/g9xsg3
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsami.5c07163
   title: Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon
     Lithography
