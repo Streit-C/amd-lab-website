@@ -5,6 +5,8 @@ utility functions for cite process and plugins
 import subprocess
 import json
 import yaml
+import unicodedata
+import re
 from yaml.loader import SafeLoader
 from pathlib import Path
 from datetime import date, datetime
