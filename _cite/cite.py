@@ -31,15 +31,16 @@ sources = []
 plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 
 # Canonical author name(s) mapping
-CANONICAL_NAMES = {
-    "W. Streit Cunningham": {
-        "William Streit Cunningham",
-        "William Cunningham",
-        "William S. Cunningham",
-        "W.S. Cunningham",
-        "W Streit Cunningham",
-        "W\uFF0EStreit Cunningham"
-    }
+PREFERRED_NAME = "W. Streit Cunningham"
+VARIANTS = {
+    "wstreitcunningham",
+    "williamstreitcunningham",
+    "williamcunningham",
+    "wcunningham",
+    "williamscunningham",
+    "wscunningham",
+    "streitcunningham",
+    "scunningham"
 }
 
 # loop through plugins
@@ -170,8 +171,8 @@ for index, source in enumerate(sources):
     citation.update(source)
 
     # normalize author names if present
-    if "author" in citation:
-        citation["author"] = normalize_authors(citation["author"])
+    if "authors" in citation and isinstance(citation["authors"], list):
+        citation["authors"] = [normalize_author(a) for a in citation["authors"]]
 
     # ensure date in proper format for correct date sorting
     if get_safe(citation, "date", ""):

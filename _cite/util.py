@@ -166,46 +166,21 @@ def save_data(path, data):
     except Exception:
         raise Exception("Can't write to file")
 
-def build_full_name(author_dict):
-    # Safely join given + family names
-    parts = []
-    if "given" in author_dict:
-        parts.append(author_dict["given"].strip())
-    if "family" in author_dict:
-        parts.append(author_dict["family"].strip())
-    return " ".join(parts)
+def normalize_for_comparison(name):
+    # Remove periods, convert to ascii, strip spaces, lowercase all
+    name = unicodedata.normalize('NFKC', name)  # Fix unicode punctuation
+    name = re.sub(r'[\.\uFF0E]', '', name)  # Remove periods (including fullwidth ·)
+    name = re.sub(r'\s+', '', name)  # Remove all whitespace
+    return name.lower()
 
-def normalize_name(full_name):
-    # Your normalized variant mapping here
-    for canonical, variants in CANONICAL_NAMES.items():
-        if full_name in variants or full_name == canonical:
-            return canonical
-    return full_name
+def is_variant(name):
+    key = normalize_for_comparison(name)
+    return key in VARIANTS
 
-def normalize_authors(authors):
-    # Works if authors is a list of dicts (Manubot/CSL)
-    if isinstance(authors, list) and all(isinstance(a, dict) for a in authors):
-        normalized = []
-        for a in authors:
-            full = build_full_name(a)
-            norm = normalize_name(full)
-            # Optionally update dict fields if changed
-            if norm != full:
-                # Try to split canonical back into given/family for CSL structure
-                # (Simple split—if your canonical is always "First Mid Last")
-                parts = norm.split()
-                if len(parts) > 1:
-                    a["given"] = " ".join(parts[:-1])
-                    a["family"] = parts[-1]
-                else:
-                    a["given"] = norm
-                    a["family"] = ""
-            normalized.append(a)
-        return normalized
-    # Fallback for list of strings
-    elif isinstance(authors, list):
-        return [normalize_name(a) for a in authors]
-    return authors
+def normalize_author(name):
+    if is_variant(name):
+        return PREFERRED_NAME
+    return name
 
 @log_cache
 @cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
