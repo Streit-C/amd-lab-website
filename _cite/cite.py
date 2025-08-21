@@ -30,19 +30,6 @@ sources = []
 # in-order list of plugins to run
 plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 
-# Canonical author name(s) mapping
-PREFERRED_NAME = "W. Streit Cunningham"
-VARIANTS = {
-    "wstreitcunningham",
-    "williamstreitcunningham",
-    "williamcunningham",
-    "wcunningham",
-    "williamscunningham",
-    "wscunningham",
-    "streitcunningham",
-    "scunningham"
-}
-
 # loop through plugins
 for plugin in plugins:
     # convert into path object

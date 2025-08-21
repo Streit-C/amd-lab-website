@@ -21,6 +21,18 @@ cache = Cache("./_cite/.cache")
 # clear expired items from cache
 cache.expire()
 
+# Canonical author name(s) mapping
+PREFERRED_NAME = "W. Streit Cunningham"
+VARIANTS = {
+    "wstreitcunningham",
+    "williamstreitcunningham",
+    "williamcunningham",
+    "wcunningham",
+    "williamscunningham",
+    "wscunningham",
+    "streitcunningham",
+    "scunningham"
+}
 
 def log_cache(func):
     """
