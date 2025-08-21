@@ -1,2 +1,391 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.jnucmat.2025.156106
+  title: Microstructurally Informed Synchrotron X-Ray Analysis Revealing Helium Defect
+    Transitions in Ultrafine Grained Tungsten
+  authors:
+  - Cormac Killeen
+  - Yang Zhang
+  - W. Streit Cunningham
+  - David J. Sprouster
+  - Daniel Olds
+  - Shirish Chodankar
+  - Jason R. Trelewicz
+  publisher: Journal of Nuclear Materials
+  date: '2025-08-01'
+  link: https://doi.org/g9xb58
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311525005008-ga1_lrg.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.1093/mam/ozaf048.1103
+  title: An Asynchronous Object Detection Framework for TEM Data Analytics
+  authors:
+  - Arda Genc
+  - W Streit Cunningham
+  - Daniel Belzberg
+  - Ravit Silverstein
+  - Libor Kovarik
+  - Daniel Gianola
+  publisher: Microscopy and Microanalysis
+  date: '2025-07-01'
+  link: https://doi.org/g9xsg3
+  orcid: 0000-0003-3166-3563
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsami.5c07163
+  title: Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon
+    Lithography
+  authors:
+  - John Kulikowski
+  - Daniel Delghandi
+  - Chaolumen Wu
+  - Samuel D. Figueroa
+  - William Streit Cunningham
+  - Daniel S. Gianola
+  - Carlos M. Portela
+  - X. Wendy Gu
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2025-05-29'
+  link: https://doi.org/g9mwgz
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/am5c07163_0006.png
+- id: doi:10.1016/j.actamat.2025.120887
+  title: "Chemically ordered dislocation defect phases as a new strengthening pathway\
+    \ in Ni\u2013Al alloys"
+  authors:
+  - H.C. Howard
+  - W.S. Cunningham
+  - A. Genc
+  - B.E. Rhodes
+  - B. Merle
+  - T.J. Rupert
+  - D.S. Gianola
+  publisher: Acta Materialia
+  date: '2025-05-01'
+  link: https://doi.org/g88krb
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S135964542500179X-ga1_lrg.jpg
+  tags:
+  - defect-engineering
+- id: doi:10.1016/j.msea.2024.147110
+  title: Alloying effects on the microstructure and properties of laser additively
+    manufactured tungsten materials
+  authors:
+  - W. Streit Cunningham
+  - Eric Lang
+  - David Sprouster
+  - Nicholas Olynik
+  - Ajith Pattammattel
+  - Daniel Olds
+  - Khalid Hattar
+  - Ian McCue
+  - Jason R. Trelewicz
+  publisher: 'Materials Science and Engineering: A'
+  date: '2024-11-01'
+  link: https://doi.org/g8twgv
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0921509324010414-ga1_lrg.jpg
+  tags:
+  - materials-for-extremes
+- id: doi:10.3389/fnuen.2024.1352667
+  title: Fabrication of neutron absorbing metal hydride entrained ceramic matrix shield
+    composites
+  authors:
+  - Devanshi Bhardwaj
+  - Bin Cheng
+  - David J. Sprouster
+  - William S. Cunningham
+  - Nirmala Rani
+  - Jason R. Trelewicz
+  - Lance L. Snead
+  publisher: Frontiers in Nuclear Engineering
+  date: '2024-02-16'
+  link: https://doi.org/g8vm4c
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/files/Articles/1352667/fnuen-03-1352667-HTML/image_m/fnuen-03-1352667-g004.jpg
+  tags:
+  - materials-for-extremes
+- id: doi:10.1016/j.mtla.2023.101940
+  title: High-throughput assessment of the microstructural stability of segregation-engineered
+    nanocrystalline Al-Ni-Y alloys
+  authors:
+  - W. Streit Cunningham
+  - Jungho Shin
+  - Tianjiao Lei
+  - Timothy J Rupert
+  - Daniel S. Gianola
+  publisher: Materialia
+  date: '2023-12-01'
+  link: https://doi.org/g8twgw
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2589152923002673-ga1_lrg.jpg
+  tags:
+  - high-throughput
+- id: doi:10.1016/j.jnucmat.2023.154683
+  title: Sintered nanostructured alloys for advanced fusion energy applications
+  authors:
+  - D.J. Sprouster
+  - J. Gentile
+  - M. Ouyang
+  - C. Killeen
+  - J.R. Trelewicz
+  - W. Zhong
+  - Y. Yang
+  - D. Bhardwaj
+  - W.S. Cunningham
+  - M.M.A. Shawon
+  - B. Cheng
+  - D. Olds
+  - H. Yan
+  - A. Pattammattel
+  - L. Tan
+  - L.L. Snead
+  publisher: Journal of Nuclear Materials
+  date: '2023-12-01'
+  link: https://doi.org/g8twgx
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
+  tags:
+  - materials-for-extremes
+- id: doi:10.1016/j.actamat.2023.118948
+  title: Grain boundary softening from stress assisted helium cavity coalescence in
+    ultrafine-grained tungsten
+  authors:
+  - "W\uFF0EStreit Cunningham"
+  - Yang Zhang
+  - Spencer L. Thomas
+  - Osman El-Atwani
+  - Yongqiang Wang
+  - Jason R. Trelewicz
+  publisher: Acta Materialia
+  date: '2023-06-01'
+  link: https://doi.org/gsdkr8
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645423002793-ga1_lrg.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.1002/adma.202200354
+  title: Unraveling Thermodynamic and Kinetic Contributions to the Stability of Doped
+    Nanocrystalline Alloys using Nanometallic Multilayers
+  authors:
+  - W. Streit Cunningham
+  - Sean T. J. Mascarenhas
+  - J. Sebastian Riano
+  - Wenbo Wang
+  - Sooyeon Hwang
+  - Khalid Hattar
+  - Andrea M. Hodge
+  - Jason R. Trelewicz
+  publisher: Advanced Materials
+  date: '2022-05-23'
+  link: https://doi.org/g8twgz
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/0ca86e75-4492-4d43-9593-af8c178f6208/adma202270206-gra-0001-m.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.1016/j.actamat.2021.116629
+  title: Suppressing irradiation induced grain growth and defect accumulation in nanocrystalline
+    tungsten through grain boundary doping
+  authors:
+  - W. Streit Cunningham
+  - Khalid Hattar
+  - Yuanyuan Zhu
+  - Danny J. Edwards
+  - Jason R. Trelewicz
+  publisher: Acta Materialia
+  date: '2021-03-01'
+  link: https://doi.org/g8twg2
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645421000094-fx1_lrg.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.1016/j.addma.2021.102263
+  title: Dislocation microstructure and its influence on corrosion behavior in laser
+    additively manufactured 316L stainless steel
+  authors:
+  - David J. Sprouster
+  - W. Streit Cunningham
+  - Gary P. Halada
+  - Hanfei Yan
+  - Ajith Pattammattel
+  - Xiaojing Huang
+  - Daniel Olds
+  - Maryam Tilton
+  - Yong S. Chu
+  - Eric Dooryhee
+  - Guha P. Manogharan
+  - Jason R. Trelewicz
+  publisher: Additive Manufacturing
+  date: '2021-11-01'
+  link: https://doi.org/gmsqrh
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214860421004231-ga1_lrg.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.1016/j.scriptamat.2020.01.013
+  title: Temperature threshold for preferential bubble formation on grain boundaries
+    in tungsten under in-situ helium irradiation
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - D. Perez
+  - E. Martinez
+  - J.R. Trelewicz
+  - M. Li
+  - S.A. Maloy
+  publisher: Scripta Materialia
+  date: '2020-04-01'
+  link: https://doi.org/g8twg3
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359646220300282-fx1_lrg.jpg
+  tags:
+  - materials-for-extremes
+  - defect-engineering
+- id: doi:10.3390/ma13030794
+  title: In-Situ Helium Implantation and TEM Investigation of Radiation Tolerance
+    to Helium Bubble Damage in Equiaxed Nanocrystalline Tungsten and Ultrafine Tungsten-TiC
+    Alloy
+  authors:
+  - Osman El Atwani
+  - Kaan Unal
+  - William Streit Cunningham
+  - Saryu Fensin
+  - Jonathan Hinks
+  - Graeme Greaves
+  - Stuart Maloy
+  publisher: Materials
+  date: '2020-02-10'
+  link: https://doi.org/gs5vt2
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mdpi-res.com/bookfiles/book/2639/Radiation_Damage_in_Materials.jpg?v=1733709732
+  tags:
+  - materials-for-extremes
+- id: doi:10.1016/j.jnucmat.2020.152150
+  title: Revealing the synergistic effects of sequential and simultaneous dual beam
+    irradiations in tungsten via in-situ TEM
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - J.R. Trelewicz
+  - M. Li
+  - B.D. Wirth
+  - S.A. Maloy
+  publisher: Journal of Nuclear Materials
+  date: '2020-09-01'
+  link: https://doi.org/gmxsxf
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022311520X00092-cov200h.gif
+  tags:
+  - materials-for-extremes
+- id: doi:10.1016/j.actamat.2018.10.038
+  title: In-situ irradiation tolerance investigation of high strength ultrafine tungsten-titanium
+    carbide alloy
+  authors:
+  - O. El-Atwani
+  - W.S. Cunningham
+  - E. Esquivel
+  - M. Li
+  - J.R. Trelewicz
+  - B.P. Uberuaga
+  - S.A. Maloy
+  publisher: Acta Materialia
+  date: '2019-02-01'
+  link: https://doi.org/g8twg4
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1359645418X00202-cov200h.gif
+  tags:
+  - materials-for-extremes
+- id: doi:10.1126/science.aan6286
+  title: "Evidence for a quantum dipole liquid state in an organic quasi\u2013two-dimensional\
+    \ material"
+  authors:
+  - Nora Hassan
+  - Streit Cunningham
+  - Martin Mourigal
+  - Elena I. Zhilyaeva
+  - Svetlana A. Torunova
+  - Rimma N. Lyubovskaya
+  - John A. Schlueter
+  - Natalia Drichko
+  publisher: Science
+  date: '2018-06-08'
+  link: https://doi.org/gdmwj6
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.science.org/cms/asset/55fe3f33-5dad-4434-a74f-f48ac46b4fc7/science.2018.360.issue-6393.largecover.jpg
+- id: doi:10.3390/cryst8060233
+  title: Raman Scattering as a Probe of the Magnetic State of BEDT-TTF Based Mott
+    Insulators
+  authors:
+  - Nora Hassan
+  - Streit Cunningham
+  - Elena I. Zhilyaeva
+  - Svetlana A. Torunova
+  - Rimma N. Lyubovskaya
+  - John A. Schlueter
+  - Natalia Drichko
+  publisher: Crystals
+  date: '2018-05-23'
+  link: https://doi.org/gdvhdh
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mdpi-res.com/bookfiles/book/768/Advances_in_Organic_Conductors_and_Superconductors.jpg?v=1733709660
+- id: doi:10.1038/s41598-018-20990-1
+  title: Softening due to Grain Boundary Cavity Formation and its Competition with
+    Hardening in Helium Implanted Nanocrystalline Tungsten
+  authors:
+  - W. Streit Cunningham
+  - Jonathan M. Gentile
+  - Osman El-Atwani
+  - Chase N. Taylor
+  - Mert Efe
+  - Stuart A. Maloy
+  - Jason R. Trelewicz
+  publisher: Scientific Reports
+  date: '2018-02-13'
+  link: https://doi.org/gc33w5
+  orcid: 0000-0003-3166-3563
+  plugin: sources.py
+  file: sources.yaml
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/41598_2018_20990_Fig1_HTML.png
+  tags:
+  - materials-for-extremes
+  - defect-engineering
