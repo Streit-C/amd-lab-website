@@ -1,6 +1,6 @@
 ---
 name: Madison Kim
-image: images/members/madison-kim.jpg
+image: images/members/madison-kim2.jpg
 role: undergrad
 affiliation: University of Virginia
 links:
