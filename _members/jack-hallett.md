@@ -11,6 +11,8 @@ T. Jack Hallett is a PhD student in the Department of Materials Science and Engi
 
 Jack Hallett has an interest in high-throughput methods of material sythesis and testing for assertaining possible properties of materials. His current interest in properties is related to phases caused by defects. 
 
+In his personal time Jack goes sailing in 420s in a nearby lake, boulders at a local gym, and goes to local church events. He also enjoys cooking.
+
 {% include section.html%}
 ##  Education
 - BS, Major: Materials Science and Engineering, University of Illinois, Urbana-Champaign, IL, 2025
