@@ -1,3 +1,4 @@
+---
 name: Maya Yaghi
 image: images/members/maya-yaghi.jpg
 role: undergrad
