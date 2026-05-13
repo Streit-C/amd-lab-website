@@ -84,7 +84,8 @@
   plugin: sources.py
   file: sources.yaml
   image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/ozaf0481103f1.png
-    - high-throughput
+  tags:
+  - high-throughput
 - id: doi:10.1021/acsami.5c07163
   title: Mechanical Behavior of Nanocluster-Based Nanocomposites Made Using Two-Photon
     Lithography
