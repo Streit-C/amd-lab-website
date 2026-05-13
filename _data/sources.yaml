@@ -90,7 +90,7 @@
     - defect-engineering
 
 - id: doi:10.1093/mam/ozaf048.1103
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/ozaf0481103f1.png
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/ozaf0481103f1.jpg
   tags:
     - high-throughput
 
@@ -107,6 +107,6 @@
     - high-throughput
 
 - id: doi:10.1103/k8bj-j1tp
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.png
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.jpg
   tags:
     - defect-engineering
