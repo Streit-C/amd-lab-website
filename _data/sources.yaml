@@ -91,6 +91,7 @@
 
 - id: doi:10.1093/mam/ozaf048.1103
   image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/ozaf0481103f1.png
+  tags:
     - high-throughput
 
 - id: doi:10.1016/j.jeurceramsoc.2025.118043
