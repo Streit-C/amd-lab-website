@@ -9,50 +9,69 @@
     - resource
 
 - title: Flash DSC
-  subtitle: None-Equalibrium Thermal Measurement
+  subtitle: Non-Equilibrium Thermal Measurement
   group: featured
   image: images/Equipment/autoDSCCropped.jpg
-  link: https://github.com/
+  link: None
   description: This machine uses a special chip to rapidly heat or cool a sample, measuring the temperature change as it does so. This lets it measure non-equalibrium changes due to temperature.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-  - title: Automatic DSC
-  subtitle: Equalibrium Thermal Measurement
+- title: Automatic DSC
+  subtitle: Equilibrium Thermal Measurement
   group: featured
   image: images/Equipment/flashDSCCropped.jpg
-  link: https://github.com/
+  link: None
   description: This machine uses a small furnace and chiller to heat and cool a sample and measure the change in temperature as it does so. This lets it measure roughly equalibrium changes due to temperature.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: X-ray Florescence Analyzer
+  subtitle: Elemental Composition Measuring
+  group: featured
+  image: images/Equipment/XRFPerspectiveAndCrop.jpg
+  link: None
+  description: This machine uses an X-ray to cause atoms to fluoresce depending on their atomic number, allowing for the measuring of chemical composition.
   repo: greenelab/lab-website-template
   tags:
     - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    
+- title: Robot Arm
+  subtitle: Sample Movement
+  group: featured
+  image: images/Equipment/robotCropped.jpg
+  link: None
+  description: This machine uses a suction cup to pick up and move samples on wafers between the different machines for processing and testing.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+#- title: Cool Tutorial
+#  subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - resource
+#    - publication
+
+#- title: Cool Web App
+## subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - software#
+
+#- title: Cool Web Server
+#  subtitle: a subtitle
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#  tags:
+#    - software
