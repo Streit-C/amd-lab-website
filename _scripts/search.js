@@ -74,7 +74,11 @@
 
   // loop through elements, hide/show based on query, and return results info
   const filterElements = (parts) => {
-    let elements = document.querySelectorAll(elementSelector);
+    let elements = document.querySelectorAll(
+      window.location.pathname.replace(/\/+$/, "").endsWith("/research")
+        ? ".citation"
+        : elementSelector
+    );
 
     // results info
     let x = 0;
