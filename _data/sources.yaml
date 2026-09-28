@@ -107,6 +107,11 @@
     - high-throughput
 
 - id: doi:10.1103/k8bj-j1tp
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.jpg
   tags:
     - defect-engineering
+
+- id: doi:10.1016/j.actamat.2026.122791
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/1-s2.0-S1359645426008906-ga1_lrg.jpg
+  tags:
+    - materials-for-extremes
