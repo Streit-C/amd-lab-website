@@ -25,7 +25,7 @@
   orcid: 0000-0003-3166-3563
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/2c1cc531-dad7-4692-8b49-6e06bc796466.jpg
   tags:
   - defect-engineering
 - id: doi:10.1016/j.actamat.2025.121764
@@ -460,6 +460,39 @@
   date: '2026-05-01'
   link: https://doi.org/hbdwkt
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0955221925008647-gr6_lrg.jpg
+  tags:
+  - materials-for-extremes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.actamat.2026.122791
+  title: Kinetics of low temperature dislocation plasticity in a refractory multi-principal
+    element alloy
+  authors:
+  - "Nicol\xF2 M. della Ventura"
+  - "Julia T. P\xFCrstl"
+  - Morgan R. Jones
+  - Carolina Frey
+  - Ravit Silverstein
+  - Leah H. Mills
+  - Chunhua Tian
+  - Pulkit Garg
+  - Satish Rao
+  - Glenn H. Balbus
+  - Thomas E.J. Edwards
+  - W. Streit Cunningham
+  - Amit Sharma
+  - Jakob Schwiedrzik
+  - Lorenzo Valdevit
+  - Xavier Maeder
+  - Johann Michler
+  - Matthew R. Begley
+  - Tresa M. Pollock
+  - Irene J. Beyerlein
+  - Daniel S. Gianola
+  publisher: Acta Materialia
+  date: '2026-12-01'
+  link: https://doi.org/hcktq2
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Research/1-s2.0-S1359645426008906-ga1_lrg.jpg
   tags:
   - materials-for-extremes
   plugin: sources.py
