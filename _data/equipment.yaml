@@ -1,49 +1,59 @@
-- title: Nanoindentation Machine
-  subtitle: Mechanical Tester
+- title: Combinatorial Sputtering Chamber
+  subtitle: Physical Vapor Deposition
   group: featured
-  image: images/Equipment/NanoindentorPerspectiveAndCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/sputtering_chamber.jpg
   link: None
-  description: This machine uses a gemstone head to make a calibrated dent in the sample and measure the resistance as it does so.
+  description: The Kurt J. Lesker PVD 200 sputtering chamber uses four independently controlled magnetron guns to fabricate compositionally graded and multicomponent thin-film libraries for rapid exploration of composition-structure-property relationships.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Flash DSC
+- title: NHT3 Nanoindenter
+  subtitle: Nanoindentation
+  group: featured
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/NanoindentorPerspectiveAndCropped.jpg
+  link: None
+  description: The Anton Paar NHT3 nanoindenter quantifies nanoscale mechanical properties, including hardness, elastic modulus, creep, and viscoelastic response, in thin films, coatings, and bulk materials using instrumented indentation measurements.
+  repo: greenelab/lab-website-template
+  tags:
+    - resource
+
+- title: Flash DSC 2+
   subtitle: Non-Equilibrium Thermal Measurement
   group: featured
-  image: images/Equipment/autoDSCCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/flashDSCCropped.jpg
   link: None
-  description: This machine uses a special chip to rapidly heat or cool a sample, measuring the temperature change as it does so. This lets it measure non-equalibrium changes due to temperature.
+  description: The METTLER TOLEDO Flash DSC 2+ measures rapid thermal transitions and transformation kinetics at heating rates up to 50,000 K/s and cooling rates up to 40,000 K/s.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Automatic DSC
+- title: DSC 5+
   subtitle: Equilibrium Thermal Measurement
   group: featured
-  image: images/Equipment/flashDSCCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/autoDSCCropped.jpg
   link: None
-  description: This machine uses a small furnace and chiller to heat and cool a sample and measure the change in temperature as it does so. This lets it measure roughly equalibrium changes due to temperature.
+  description: The METTLER TOLEDO DSC 5+ is an automated differential scanning calorimeter for measuring thermal transitions and reaction behavior from -150 to 700 C, with unattended processing of up to 96 samples and seven reference crucibles.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: X-ray Florescence Analyzer
-  subtitle: Elemental Composition Measuring
+- title: Benchtop X-ray Florescence
+  subtitle: Elemental Composition
   group: featured
-  image: images/Equipment/XRFPerspectiveAndCrop.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/XRFPerspectiveAndCrop.jpg
   link: None
-  description: This machine uses an X-ray to cause atoms to fluoresce depending on their atomic number, allowing for the measuring of chemical composition.
+  description: The Bowman K Series XRF system enables spatially resolved elemental analysis across large samples through programmable X-Y positioning, selectable measurement spot sizes, and simultaneous quantification of up to 30 elements from aluminum through uranium.
   repo: greenelab/lab-website-template
   tags:
     - resource
     
-- title: Robot Arm
-  subtitle: Sample Movement
+- title: Collaborative Robot
+  subtitle: Sample Transfer
   group: featured
-  image: images/Equipment/robotCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/robotCropped.jpg
   link: None
-  description: This machine uses a suction cup to pick up and move samples on wafers between the different machines for processing and testing.
+  description: The DOBOT six-axis collaborative robot, equipped with a Gecko gripper, enables programmable and repeatable pick-and-place, sample handling, and materials-transfer workflows, with compliant gripping of flat, smooth, or irregularly shaped objects.
   repo: greenelab/lab-website-template
   tags:
     - resource
