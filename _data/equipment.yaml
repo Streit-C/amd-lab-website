@@ -11,7 +11,7 @@
 - title: NHT3 Nanoindenter
   subtitle: Nanoindentation
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/NanoindentorPerspectiveAndCropped.jpeg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/NanoindentorPerspectiveAndCrop.jpeg
   link: None
   description: The Anton Paar NHT3 nanoindenter quantifies nanoscale mechanical properties, including hardness, elastic modulus, creep, and viscoelastic response, in thin films, coatings, and bulk materials using instrumented indentation measurements.
   repo: greenelab/lab-website-template
