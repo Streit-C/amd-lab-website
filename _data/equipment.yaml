@@ -11,7 +11,7 @@
 - title: NHT3 Nanoindenter
   subtitle: Nanoindentation
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/NanoindentorPerspectiveAndCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/NanoindentorPerspectiveAndCropped.jpeg
   link: None
   description: The Anton Paar NHT3 nanoindenter quantifies nanoscale mechanical properties, including hardness, elastic modulus, creep, and viscoelastic response, in thin films, coatings, and bulk materials using instrumented indentation measurements.
   repo: greenelab/lab-website-template
@@ -21,7 +21,7 @@
 - title: Flash DSC 2+
   subtitle: Non-Equilibrium Thermal Measurement
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/flashDSCCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/flashDSCCropped.jpeg
   link: None
   description: The METTLER TOLEDO Flash DSC 2+ measures rapid thermal transitions and transformation kinetics at heating rates up to 50,000 K/s and cooling rates up to 40,000 K/s.
   repo: greenelab/lab-website-template
@@ -31,7 +31,7 @@
 - title: DSC 5+
   subtitle: Equilibrium Thermal Measurement
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/autoDSCCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/autoDSCCropped.jpeg
   link: None
   description: The METTLER TOLEDO DSC 5+ is an automated differential scanning calorimeter for measuring thermal transitions and reaction behavior from -150 to 700 C, with unattended processing of up to 96 samples and seven reference crucibles.
   repo: greenelab/lab-website-template
@@ -41,7 +41,7 @@
 - title: Benchtop X-ray Florescence
   subtitle: Elemental Composition
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/XRFPerspectiveAndCrop.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/XRFPerspectiveAndCrop.jpeg
   link: None
   description: The Bowman K Series XRF system enables spatially resolved elemental analysis across large samples through programmable X-Y positioning, selectable measurement spot sizes, and simultaneous quantification of up to 30 elements from aluminum through uranium.
   repo: greenelab/lab-website-template
@@ -51,7 +51,7 @@
 - title: Collaborative Robot
   subtitle: Sample Transfer
   group: featured
-  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/robotCropped.jpg
+  image: https://raw.githubusercontent.com/Streit-C/amd-lab-website/refs/heads/main/images/Equipment/robotCropped.jpeg
   link: None
   description: The DOBOT six-axis collaborative robot, equipped with a Gecko gripper, enables programmable and repeatable pick-and-place, sample handling, and materials-transfer workflows, with compliant gripping of flat, smooth, or irregularly shaped objects.
   repo: greenelab/lab-website-template

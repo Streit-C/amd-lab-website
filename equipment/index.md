@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Equipment
 
-As we construct our lab, the list of our available equipment will be found here.
+Check out our equipment below!
 
 {% include tags.html tags="publication, resource, website" %}
 
